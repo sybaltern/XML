@@ -1,0 +1,12 @@
+<root>
+    <soft-skills>
+        <item1>First soft-skill</item1>
+        <item2>Second soft-skill</item2>
+        <item3>Third soft-skill</item3>
+    </soft-skills>
+    <hard-skills>
+        <item1>First hard-skill</item1>
+        <item2>Second hard-skill</item2>
+        <item3>Third hard-skill</item3>
+    </hard-skills>
+</root>
