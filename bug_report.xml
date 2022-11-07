@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<fields>
+    <ID>1</ID>
+    <Title>Не работает Viber</Title>
+    <Priority>normal</Priority>
+    <Severity>minor</Severity>
+    <Environment>Google Chrome Windows 11</Environment>
+    <Steps>{'1': 'Зайти на сайт capital.com', '2': 'Выбрать Viber, в качестве средства связи с компанией', '3': 'Нажать на значок Viber'}</Steps>
+    <ExpectedResult>Viber работает</ExpectedResult>
+    <ActualResult>Viber не работает</ActualResult>
+</fields>
